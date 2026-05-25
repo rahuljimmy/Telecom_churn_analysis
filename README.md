@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis
+# 📊 Telecom Customer Churn Analysis (Python EDA Project)
 
 ## 📌 Project Overview
 
@@ -25,25 +25,6 @@ The ultimate goal of this project is to help telecom companies understand custom
 
 The dataset contains customer-level information from a telecom company.
 
-### 📌 Dataset Features
-
-The dataset includes:
-
-* Customer demographics
-* Account information
-* Internet services
-* Phone services
-* Billing details
-* Contract types
-* Payment methods
-* Customer support services
-* Churn status
-
-### 📊 Dataset Shape
-
-* **Rows:** 7043
-* **Columns:** 21
-
 ### 🧾 Important Features
 
 * `gender`
@@ -60,6 +41,11 @@ The dataset includes:
 * `MonthlyCharges`
 * `TotalCharges`
 * `Churn`
+
+### 📊 Dataset Shape
+
+* **Rows:** 7043
+* **Columns:** 21
 
 ---
 
